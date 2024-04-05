@@ -4,4 +4,4 @@
 #OAR --stderr PMind.err
 #OAR --project pr-mind
 
-java -jav EvoAgentZENG.jar ./Minds/T7/Tasks/learningTasks/learnAvoid.simbatch
+java -jar EvoAgentZENG.jar ./Minds/T7/Tasks/learningTasks/learnAvoid.simbatch
