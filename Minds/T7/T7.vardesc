@@ -1,0 +1,13 @@
+#add your own variables ...
+VAR_TIME:TickWaveSinVariableModule
+VAR_ID:VariableModule
+VAR_SCORE:VariableModule
+VAR_TARGET:VariableModule
+VAR_TARGETDIST:VariableModule
+VAR_OBJNEED:VariableModule
+VAR_OBJNEEDDIST:VariableModule
+VAR_ROLE:VariableModule:0.5
+VAR_COUNT:CounterVariableModule
+VAR_EMO_UN_HAPPY:VariableModule
+VAR_EMO_HAPPY:VariableModule
+VAR_SIZE:VariableModule
