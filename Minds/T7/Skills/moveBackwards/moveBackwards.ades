@@ -1,0 +1,7 @@
+moveBackwards
+input:0
+output:2
+MO:MotL
+MO:MotR
+hardCoded
+class:MoveBackwards
