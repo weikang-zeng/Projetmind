@@ -1,0 +1,13 @@
+GTO_fortraintest
+input:4
+SE:RADOBJA
+SD:RADOBJA
+SE:DISTOBJA
+SD:DISTOBJA
+output:4
+SK:moveForward
+SK:turnRight
+SK:turnLeft
+SK:moveBackwards
+neural
+layers:2
