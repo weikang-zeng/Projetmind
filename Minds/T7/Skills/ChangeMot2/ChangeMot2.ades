@@ -1,0 +1,11 @@
+ChangeMot2
+input:2
+MO:MotL
+MO:MotR
+output:2
+MO:MotL
+MO:MotR
+hardCoded
+class:ChangeMot2
+
+

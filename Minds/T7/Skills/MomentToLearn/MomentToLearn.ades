@@ -1,0 +1,11 @@
+MomentToLearn
+input:2
+SE:DISTOBJA
+SH:DISTOBJA:10
+output:1
+VA:VAR_MOM_LEARN
+neural
+layers:2
+HIDDEN_NEURON_ADDED:10
+
+

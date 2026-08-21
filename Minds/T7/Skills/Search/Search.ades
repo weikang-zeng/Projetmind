@@ -1,0 +1,12 @@
+Search
+input:3
+SE:NearFriendlyActive
+SE:NearFriendlyOrient
+SE:NearFriendlyDistance
+output:4
+SK:moveForward
+SK:turnRight
+SK:turnLeft
+SK:moveBackwards
+neural
+layers:2

@@ -1,0 +1,13 @@
+AttributionCause
+input:5
+VA:VAR_Detection_Vitesse_Anormale
+SE:DISTOBJA
+MO:MotL
+MO:MotR
+VA:VAR_Attribution_Cause
+output:1
+VA:VAR_Attribution_Cause
+hardCoded
+class:Attribution_cause
+
+

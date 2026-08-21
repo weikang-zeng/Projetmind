@@ -1,0 +1,8 @@
+EmitSignal
+input:2
+SE:SENSOBJ
+SE:NearObjectActive
+output:1
+MO:SignalA
+neural
+layers:2

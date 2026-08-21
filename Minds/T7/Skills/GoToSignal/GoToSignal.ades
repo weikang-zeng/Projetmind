@@ -1,0 +1,13 @@
+GoToSignal
+input:4
+SE:ListenerAOrient
+SD:ListenerAOrient
+SE:ListenerADistance
+SD:ListenerADistance
+output:4
+SK:moveForward
+SK:turnRight
+SK:turnLeft
+SK:moveBackwards
+neural
+layers:2

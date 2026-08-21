@@ -1,0 +1,9 @@
+CollectPower_Emocharge
+input:1
+VA:VAR_EMO_UN_HAPPY
+output:3
+SK:CollectPower
+SK:GoToPowerSource
+SE:BATTLVL
+hardCoded
+class:Biais_de_compentence

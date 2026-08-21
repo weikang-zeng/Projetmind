@@ -1,0 +1,14 @@
+CollectPS_test
+input:6
+SE:BATTLVL
+SE:SENSOBJ
+SE:DISTOBJA
+SE:DISTDZ
+SE:DISTPS
+VA:VAR_EMO_UN_HAPPY
+output:3
+SK:Collect
+SK:GTPS+Avoid
+VA:VAR_EMO_UN_HAPPY
+neural
+layers:2

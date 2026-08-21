@@ -1,0 +1,9 @@
+RefProprioHd
+input:3
+SH:DISTOBJA:10
+SE:DISTOBJA
+VA:VAR_VariationDist
+output:1
+VA:VAR_VariationDist
+hardCoded
+class:RefProprioHd

@@ -1,0 +1,10 @@
+moins
+input:0
+output:3
+VA:VAR_VariationDist
+VA:VAR_num1
+VA:VAR_num2
+hardCoded
+class:Soustraction
+
+

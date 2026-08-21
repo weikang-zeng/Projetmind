@@ -1,0 +1,13 @@
+Substraction
+input:2
+VA:VAR_MATH_NUM1
+VA:VAR_MATH_NUM2
+output:1
+VA:VAR_MATH_RESULT2
+neural
+#layers:1
+layers:2
+HIDDEN_TRANSFER:RAMPSIG
+#HIDDEN_NEURON_ADDED:10
+
+

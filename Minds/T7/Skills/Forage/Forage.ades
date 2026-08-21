@@ -1,0 +1,15 @@
+Forage
+input:4
+SE:SENSOBJ
+SE:ACTOBJA
+SE:ListenerAActive
+SE:NearFriendlyDistance
+output:5
+SK:Collect
+SK:ReachSignal
+SK:EmitSignal
+SK:Search+Avoid
+SK:Idle
+neural
+layers:3
+

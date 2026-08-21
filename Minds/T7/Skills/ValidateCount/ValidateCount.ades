@@ -1,0 +1,9 @@
+ValidateCount
+input:2
+SE:RADVZ
+SE:SENSVZ
+output:2
+SK:GTT+Avoid
+VA:VAR_TARGET
+neural
+layers:2

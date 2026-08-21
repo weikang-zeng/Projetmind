@@ -1,0 +1,6 @@
+PrintInputs
+input:1
+SE:DISTOBJA
+output:0
+hardCoded
+class:PrintInputs

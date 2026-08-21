@@ -1,0 +1,11 @@
+VitesseObs
+input:2
+SH:DISTOBJA:10
+SE:DISTOBJA
+output:1
+VA:VAR_Vitesse
+neural
+layers:2
+HIDDEN_TRANSFER:RAMPSIG
+
+

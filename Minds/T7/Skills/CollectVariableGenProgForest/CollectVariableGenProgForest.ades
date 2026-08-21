@@ -1,0 +1,14 @@
+CollectVariableGenProgForest
+input:6
+SE:SENSOBJ
+SE:RADOBJA
+SE:DISTOBJA
+SE:SENSDZ
+SE:RADDZ
+SE:DISTDZ
+output:4
+SK:ClawControl
+SK:GTT+Avoid
+VA:VAR_TARGET
+VA:VAR_TARGETDIST
+geneticProgramForest

@@ -1,0 +1,13 @@
+GoToDropZone
+input:4
+SE:RADDZ
+SH:RADDZ:5
+SH:RADDZ:10
+SD:RADDZ
+output:4
+SK:moveForward
+SK:turnRight
+SK:turnLeft
+SK:moveBackwards
+neural
+layers:2

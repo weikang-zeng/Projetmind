@@ -1,0 +1,10 @@
+Pressbutton
+input:1
+VA:VAR_DetectionAnomalie
+output:1
+VA:VAR_EMO_HAPPY
+hardCoded
+class:Pressbutton
+
+
+

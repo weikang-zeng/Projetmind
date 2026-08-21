@@ -1,0 +1,12 @@
+DetectionAnomalieRef
+input:3
+VA:VAR_VariationDist
+VA:VAR_ProprioceptionMot
+VA:VAR_DetectionAnomalieRef
+output:1
+VA:VAR_DetectionAnomalieRef
+hardCoded
+class:DetectionAnomalieRef
+
+
+

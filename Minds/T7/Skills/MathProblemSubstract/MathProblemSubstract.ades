@@ -1,0 +1,8 @@
+MathProblemSubstract
+input:0
+output:3
+VA:VAR_MATH_RESULT1
+VA:VAR_MATH_NUM1
+VA:VAR_MATH_NUM2
+hardCoded
+class:MathProblemSubstract

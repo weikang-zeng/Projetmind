@@ -1,0 +1,8 @@
+ClawControl
+input:2
+SE:SENSOBJ
+SE:SENSDZ
+output:1
+MO:EMAG
+hardCoded
+class:ClawControl

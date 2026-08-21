@@ -1,0 +1,14 @@
+GoToObject
+input:4
+SE:RADOBJA
+SD:RADOBJA
+SE:DISTOBJA
+SD:DISTOBJA
+output:4
+SK:moveForward
+SK:turnRight
+SK:turnLeft
+SK:moveBackwards
+SK:Analyse_effort
+neural
+layers:2

@@ -1,0 +1,16 @@
+CollectPower+Count
+input:6
+VA:VAR_COUNT
+SE:BATTLVL
+SD:BATTLVL
+VA:VAR_EMO_UN_HAPPY
+SE:DOF
+VA:VAR_EMO_HAPPY
+output:4
+SK:CountObjects
+SK:GTPS+Avoid
+VA:VAR_EMO_UN_HAPPY
+VA:VAR_EMO_HAPPY
+hardCoded
+class:CollectPSCount
+

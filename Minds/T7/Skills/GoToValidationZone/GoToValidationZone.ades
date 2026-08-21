@@ -1,0 +1,13 @@
+GoToValidationZone
+input:4
+SE:RADVZ
+SH:RADVZ:5
+SH:RADVZ:10
+SD:RADVZ
+output:4
+SK:moveForward
+SK:turnRight
+SK:turnLeft
+SK:moveBackwards
+neural
+layers:2

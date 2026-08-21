@@ -1,0 +1,12 @@
+test
+input:4
+VA:VAR_ProprioceptionMot
+MO:MotL
+MO:MotR
+VA:VAR_SIZE:VariableModule
+output:1
+VA:VAR_SIZE:VariableModule
+hardCoded
+class:test
+
+

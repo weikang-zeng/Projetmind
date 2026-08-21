@@ -1,0 +1,9 @@
+VisuRef
+input:1
+VA:VAR_Ref
+output:1
+VA:VAR_Ref
+hardCoded
+class:VisuRef
+
+

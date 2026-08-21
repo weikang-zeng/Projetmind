@@ -1,0 +1,16 @@
+CollectVariable
+input:5
+SE:SENSOBJ
+SE:SENSDZ
+SE:RADDZ
+SE:RADOBJA
+SE:DISTOBJA
+output:4
+SK:GTT+Avoid
+SK:ClawControl
+VA:VAR_TARGET
+VA:VAR_TARGETDIST
+neural
+layers:3
+HIDDEN_NEURON_ADDED:10
+

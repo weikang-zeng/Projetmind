@@ -1,0 +1,9 @@
+VariationDist
+input:3
+SE:DISTOBJA
+SH:DISTOBJA:10
+VA:VAR_VariationDist
+output:1
+VA:VAR_VariationDist
+hardCoded
+class:EmitSignal

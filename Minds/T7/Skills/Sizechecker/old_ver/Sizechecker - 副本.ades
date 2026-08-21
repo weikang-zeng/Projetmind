@@ -1,0 +1,13 @@
+Sizechecker
+input:4
+SE:BATTLVL
+SE:DISTPS
+VA:VAR_EMO_UN_HAPPY
+VA:VAR_SIZE
+output:4
+SK:CollectPower
+SK:GoToPowerSource
+VA:VAR_SIZE
+SK:Collect
+hardCoded
+class:Sizechecker

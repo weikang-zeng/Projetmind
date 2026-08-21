@@ -1,0 +1,10 @@
+GoToObject_encercler
+input:4
+SE:RADOBJA
+SD:RADOBJA
+SE:DISTOBJA
+SD:DISTOBJA
+output:1
+SK:GoToObject
+neural
+layers:2

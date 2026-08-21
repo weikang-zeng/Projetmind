@@ -1,0 +1,10 @@
+GoToObject+Count
+input:4
+SE:RADOBJA
+SE:DISTOBJA
+VA:VAR_VitesseConstate2
+VA:VAR_VitesseConstate1
+output:1
+VA:VAR_VitesseConstate2
+neural
+layers:2

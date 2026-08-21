@@ -1,0 +1,11 @@
+CollectPowerNoSensorPS
+input:4
+SE:BATTLVL
+SE:SENSOBJ
+SE:DISTOBJA
+SE:DISTDZ
+output:2
+SK:Collect
+SK:GoToPowerSource
+neural
+layers:2

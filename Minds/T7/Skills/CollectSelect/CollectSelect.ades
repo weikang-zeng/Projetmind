@@ -1,0 +1,13 @@
+CollectSelect
+input:5
+SE:SENSOBJ
+SE:SENSDZ
+SE:DISTOBJA
+SE:DISTOBJB
+VA:VAR_ROLE
+output:2
+SK:CollectA
+SK:CollectB
+neural
+layers:1
+HIDDEN_NEURON_ADDED:15

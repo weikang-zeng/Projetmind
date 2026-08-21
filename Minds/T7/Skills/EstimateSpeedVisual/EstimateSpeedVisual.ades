@@ -1,0 +1,10 @@
+EstimateSpeedVisual
+input:4
+SE:DISTOBJA
+SH:DISTOBJA:5
+SH:DISTOBJA:10
+SD:DISTOBJA
+output:1
+VA:VAR_SPEED_EST_OBJ
+neural
+layers:2

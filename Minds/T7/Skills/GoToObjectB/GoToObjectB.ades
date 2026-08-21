@@ -1,0 +1,13 @@
+GoToObjectB
+input:4
+SE:RADOBJB
+SD:RADOBJB
+SE:DISTOBJB
+SD:DISTOBJB
+output:4
+SK:moveForward
+SK:turnRight
+SK:turnLeft
+SK:moveBackwards
+neural
+layers:2

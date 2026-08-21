@@ -1,0 +1,8 @@
+EmitSignal
+input:2
+SE:SENSOBJ
+SE:ACTOBJA
+output:1
+MO:SignalA
+hardCoded
+class:EmitSignal

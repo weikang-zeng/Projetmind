@@ -1,0 +1,10 @@
+TrainAvoid
+input:0
+output:5
+SK:moveForward
+SK:moveBackwards
+SK:turnRight
+SK:turnLeft
+SK:Avoid
+hardCoded
+class:TrainAvoid

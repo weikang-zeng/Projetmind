@@ -1,0 +1,10 @@
+CountObjDecoder
+input:2
+VA:VAR_VitesseConstate2
+VA:VAR_Count_Deco
+output:1
+VA:VAR_Count_Deco
+hardCoded
+class:CountObjDecoder
+
+

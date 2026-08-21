@@ -1,0 +1,9 @@
+ZoomSignal
+input:1
+VA:VAR_Vitesse
+output:1
+VA:VAR_Vitesse
+neural
+hardCoded
+class:ZoomSignal
+

@@ -1,0 +1,13 @@
+GoToObject
+input:4
+SE:RADOBJA
+SH:RADOBJA:5
+SH:RADOBJA:10
+SD:RADOBJA
+output:4
+SK:moveForward
+SK:turnRight
+SK:turnLeft
+SK:moveBackwards
+neural
+layers:2

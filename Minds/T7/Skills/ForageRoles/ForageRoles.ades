@@ -1,0 +1,14 @@
+ForageRoles
+input:4
+SE:SENSDZ
+SD:SENSOBJ
+SE:PAYOFF
+VA:VAR_ROLE
+output:3
+SK:SelectObject
+SK:CollectTarget
+VA:VAR_ROLE
+neural
+layers:2
+HIDDEN_NEURON_ADDED:10
+

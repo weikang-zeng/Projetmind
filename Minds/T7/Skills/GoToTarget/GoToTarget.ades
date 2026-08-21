@@ -1,0 +1,13 @@
+GoToTarget
+input:4
+VA:VAR_TARGET
+VH:VAR_TARGET:5
+VH:VAR_TARGET:10
+VD:VAR_TARGET
+output:4
+SK:moveForward
+SK:turnRight
+SK:turnLeft
+SK:moveBackwards
+neural
+layers:2

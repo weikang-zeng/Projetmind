@@ -1,0 +1,10 @@
+CollectB
+input:2
+SE:SENSOBJ
+SE:SENSDZ
+output:3
+SK:GTO-B+Avoid
+SK:GTDZ+Avoid
+SK:ClawControl
+neural
+layers:2

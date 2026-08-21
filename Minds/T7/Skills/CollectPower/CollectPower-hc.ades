@@ -1,0 +1,12 @@
+CollectPower
+input:5
+SE:BATTLVL
+SE:SENSOBJ
+SE:DISTOBJA
+SE:DISTDZ
+SE:DISTPS
+output:2
+SK:Collect
+SK:GTPS+Avoid
+hardCoded
+class:CollectPS

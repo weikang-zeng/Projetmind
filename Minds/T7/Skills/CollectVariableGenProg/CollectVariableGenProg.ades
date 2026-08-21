@@ -1,0 +1,9 @@
+CollectVariableGenProg
+input:4
+SE:SENSOBJ
+SE:RADOBJA
+SE:SENSDZ
+SE:RADDZ
+output:1
+VA:VAR_TARGET
+geneticProgram

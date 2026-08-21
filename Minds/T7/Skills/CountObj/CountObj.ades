@@ -1,0 +1,11 @@
+CountObj
+input:3
+SE:DISTOBJA
+SH:DISTOBJA:2
+VA:VAR_VitesseConstate1
+output:1
+VA:VAR_VitesseConstate1
+hardCoded
+class:CountObj
+
+

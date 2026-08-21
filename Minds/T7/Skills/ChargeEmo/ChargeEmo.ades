@@ -1,0 +1,7 @@
+ChargeEmo
+input:1
+SE:BATTLVL
+output:1
+VA:VAR_EMO_UN_HAPPY
+hardCoded
+class:ChargeEmo

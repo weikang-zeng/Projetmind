@@ -1,0 +1,10 @@
+DetectionAnomalie
+input:2
+VA:VAR_VariationDist
+VA:VAR_ProprioceptionMot
+output:1
+VA:VAR_DetectionAnomalie
+neural
+layers:2
+
+

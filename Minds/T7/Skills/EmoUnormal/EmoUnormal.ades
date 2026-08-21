@@ -1,0 +1,10 @@
+EmoUnormal
+input:2
+VA:VAR_DetectionAnomalie
+VA:VAR_EMO_UN_HAPPY
+output:1
+VA:VAR_EMO_UN_HAPPY
+neural
+layers:2
+
+

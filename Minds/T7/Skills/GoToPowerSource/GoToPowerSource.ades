@@ -1,0 +1,13 @@
+GoToPowerSource
+input:4
+SE:RADPS
+SH:RADPS:5
+SH:RADPS:10
+SD:RADPS
+output:4
+SK:moveForward
+SK:turnRight
+SK:turnLeft
+SK:moveBackwards
+neural
+layers:2
