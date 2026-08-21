@@ -41,3 +41,4 @@ MotR:Motor
 EMAG:GroveElectromagnet
 SignalA:SignalEmitter
 SelfRecharge:SelfRecharge
+Indicateur:Indicateur

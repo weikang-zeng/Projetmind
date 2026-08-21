@@ -11,3 +11,24 @@ VAR_COUNT:CounterVariableModule
 VAR_EMO_UN_HAPPY:VariableModule
 VAR_EMO_HAPPY:VariableModule
 VAR_SIZE:VariableModule
+VAR_Vitesse:VariableModule
+VAR_MOT_PERFORMANCE:VariableModule
+VAR_Count_Deco:VariableModule
+VAR_Detection_Vitesse_Anormale:VariableModule
+VAR_Attribution_Cause:VariableModule
+VAR_VariationDist:VariableModule
+VAR_DetectionAnomalie:VariableModule
+VAR_DetectionAnomalieRef:VariableModule
+VAR_RapportVitesse:VariableModule
+VAR_ProprioceptionMot:VariableModule
+VAR_Ref:VariableModule
+# Proprioception 
+VAR_SPEED_EST_OBJ:VariableModule
+VAR_MOT_PERFORMANCE:VariableModule
+# Math problems
+VAR_MATH_NUM1:VariableModule
+VAR_MATH_NUM2:VariableModule
+VAR_MATH_RESULT1:VariableModule
+VAR_MATH_RESULT2:VariableModule
+# Vitesse obs
+VAR_MOM_LEARN:VariableModule

@@ -1,0 +1,10 @@
+ProprioceptionMot
+input:2
+MO:MotL
+MO:MotR
+output:1
+VA:VAR_ProprioceptionMot
+neural
+layers:2
+HIDDEN_NEURON_ADDED:10
+

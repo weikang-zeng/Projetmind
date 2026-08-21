@@ -1,0 +1,13 @@
+ProprioceptionMot2
+input:3
+MO:MotL
+MO:MotR
+VA:VAR_ProprioceptionMot
+output:1
+VA:VAR_ProprioceptionMot
+neural
+layers:2
+HIDDEN_TRANSFER:RAMPSIG
+OUTPUT_TRANSFER:CLIPLIN
+HIDDEN_NEURON_ADDED:10
+
